@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100&display=swap');
+
+div{
+    font-family: 'Noto Sans JP', sans-serif;
+}
+.mini{
+    width: 280px;
+    height: 400px;
+}
